@@ -15,7 +15,7 @@ Have a tough coding interview? Wanna vent?
 
 Make a breakthrough in some tough code? Wanna boast?
 
-Need a space to get aways and focus on you? pine is the answer.
+Need a space to get away and focus on you? pine is the answer.
 
 ## Mediation Station
 
@@ -39,28 +39,9 @@ is always better together
 </p>
 
 </div>
-
-<div align="center">
-
-### Current Tasks
-
-Licensing
-
-Repository Security
-
-Microservices/Scalability
-
-</div>
-
 <div align="center">
 
 ## Devs
-
-<p align="center">
-
-Current tasks are the topics that are being looked into and connecting with professionals for advice or collaboration
-
-</p>
 
 <p align="center">
 Main focus will be setting up wiki, Goals, Vision, and Collaboration
@@ -71,7 +52,25 @@ Also code of conduct/rules.
 </p>
 
 <p align="center">
-Once we have a good foundation we can start bringing the current tasks to life.
+The wiki folder is meant for any files you made need for the wiki pages.
 </p>
+
+<p align="center">
+
+If you have any experience in the areas we are seeking help in currently please reach out or contribute!
+
+</p>
+
+</div>
+
+<div align="center">
+
+### Seeking help in these areas
+
+Licensing
+
+Repository Security
+
+Microservices/Scalability
 
 </div>
