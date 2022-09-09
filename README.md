@@ -2,7 +2,9 @@
 # pine-wellness
 </p>
 <div>
-<img src='./logos/simple__solid__32.png'>
+
+![blue pine cone](vscode-remote://wsl%2Bubuntu/home/chris/pine-wellness/pine-wellness/logos/blue__cone__512.png)
+
 </div>
 
 ## An open source wellness application
