@@ -15,7 +15,7 @@ Have a tough coding interview? Wanna vent?
 
 Make a breakthrough in some tough code? Wanna boast?
 
-Need a space to get aways and focus on you? pine is the answer.
+Need a space to get away and focus on you? pine is the answer.
 
 ## Mediation Station
 
@@ -39,10 +39,33 @@ is always better together
 </p>
 
 </div>
+<div align="center">
+
+## Devs
+
+<p align="center">
+Main focus will be setting up wiki, Goals, Vision, and Collaboration
+</p>
+
+<p align="center">
+Also code of conduct/rules.
+</p>
+
+<p align="center">
+The wiki folder is meant for any files you made need for the wiki pages.
+</p>
+
+<p align="center">
+
+If you have any experience in the areas we are seeking help in currently please reach out or contribute!
+
+</p>
+
+</div>
 
 <div align="center">
 
-### Current Tasks
+### Seeking help in these areas
 
 Licensing
 
