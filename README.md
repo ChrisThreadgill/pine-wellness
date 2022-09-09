@@ -3,7 +3,7 @@
 </p>
 <div>
 
-![blue pine cone](logos/simple__solid__32.png)
+![blue pine cone](logos/light__cone__64.png)
 
 </div>
 
