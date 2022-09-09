@@ -28,13 +28,13 @@ Want to celebrate a win? Celebrate.
 From sharing different ways to mediate, venting about a frustrating situation at work, and celebrating L's or W's in your life with others.
 
 <p align="center">
-pine
-</p>
+## Mediation Station
 <p align="center">
 where taking care of your mental health
 </p>
 <p align="center">
 is always better together
+</p>
 </p>
 
 </div>
