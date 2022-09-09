@@ -1,3 +1,3 @@
 # pine-wellness
 
-An open source wellness app
+An open source wellness application 
