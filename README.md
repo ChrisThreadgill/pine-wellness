@@ -1,7 +1,7 @@
 <p align="center">
 # pine-wellness
 </p>
-<div>
+<div align="center">
 
 ![blue pine cone](logos/seafoam__green__128.png)
 
