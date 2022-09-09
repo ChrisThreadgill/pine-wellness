@@ -25,7 +25,9 @@ Need to vent? Vent it out.
 
 Want to celebrate a win? Celebrate.
 
-From sharing different ways to mediate, venting about a frustrating situation at work, and celebrating L's or W's in your life with others.
+From sharing different ways to mediate, venting about a frustrating situation at work, and celebrating L's or W's
+
+Yes, we believe in celebrating your L's because when you fail you're at your best growth potential.
 
 ## pine
 
@@ -35,5 +37,17 @@ where taking care of your mental health
 <p align="center">
 is always better together
 </p>
+
+</div>
+
+<div align="center">
+
+### Current Tasks
+
+Licensing
+
+Repository Security
+
+Microservices/Scalability
 
 </div>
