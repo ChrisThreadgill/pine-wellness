@@ -3,7 +3,7 @@
 </p>
 <div>
 
-![blue pine cone](vscode-remote://wsl%2Bubuntu/home/chris/pine-wellness/pine-wellness/logos/blue__cone__512.png)
+![blue pine cone](logos/blue__cone__512.png)
 
 </div>
 
