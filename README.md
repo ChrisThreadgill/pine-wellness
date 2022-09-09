@@ -51,3 +51,27 @@ Repository Security
 Microservices/Scalability
 
 </div>
+
+<div align="center">
+
+## Devs
+
+<p align="center">
+
+Current tasks are the topics that are being looked into and connecting with professionals for advice or collaboration
+
+</p>
+
+<p align="center">
+Main focus will be setting up wiki, Goals, Vision, and Collaboration
+</p>
+
+<p align="center">
+Also code of conduct/rules.
+</p>
+
+<p align="center">
+Once we have a good foundation we can start bringing the current tasks to life.
+</p>
+
+</div>
